@@ -1,5 +1,6 @@
 import React from "react";
 import { SafeAreaView, StatusBar, Text, View } from "react-native";
+import { ThemeProvider as MyThemeProvider } from "./src/Theme/ThemeProvider";
 
 const App = () => {
   return (

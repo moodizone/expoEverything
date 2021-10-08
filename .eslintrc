@@ -1,6 +1,7 @@
 {
   "extends": ["@react-native-community"],
   "rules": {
-    "quotes": "off"
+    "quotes": "off",
+    "curly": "off"
   }
 }
